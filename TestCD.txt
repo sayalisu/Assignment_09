@@ -1,1 +1,0 @@
-1,test_title,cd_artist,[<DataClasses.Track object at 0x00000174D13A98E0>] 
