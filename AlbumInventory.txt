@@ -1,3 +1,0 @@
-1,the big river,runrig,[] 
-2,Bad,Michael Jackson,[<DataClasses.Track object at 0x00000174D13D61C0>, None, <DataClasses.Track object at 0x00000174D13D6670>] 
-3,Forever,Taylor Swift,[] 
